@@ -1,0 +1,15 @@
+# Core Data Science & Numerical Computing
+pandas>=1.5.0
+numpy>=1.22.0
+scikit-learn>=1.0.0
+
+# Deep Learning Framework
+torch>=2.0.0
+
+# Data Visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Dataset Utilities & Notebook
+kagglehub>=0.2.0
+jupyter>=1.0.0

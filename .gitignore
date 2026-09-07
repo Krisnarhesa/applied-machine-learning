@@ -1,0 +1,33 @@
+# Large Datasets (> 25MB / GitHub 100MB limit)
+rating.csv
+**/rating.csv
+*.csv.gz
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and checkpoints
+.ipynb_checkpoints/
+.cache/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
